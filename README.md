@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mkester65
-- 👀 I’m interested in Artificial intelligence specifically Machine learning
-- 🌱 I’m currently learning Data Science on W3schools
-- 💞️ I’m looking to collaborate on Machine learning projects and research
-- 📫 How to reach me Email: eugeniaasare2020@gmail.com, Whatsapp: +233266246612
+- 👋 Hello, I’m Eugenia Kester Asare Mfoafo,@Mkester65
+- 👀 I’m a Web designer and developer,Data Science and Analysis enthusiast
+- 🌱 I’m Bsc of Computer Science holder
+- 💞️ I’m looking to collaborate on Web Design and Development,Data Science projects and Research
+- 📫 How to reach me Email: eugeniaasare2020@gmail.com, Whatsapp: +233266246612, Call: +233558992711
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: The liver can regenerate
 
